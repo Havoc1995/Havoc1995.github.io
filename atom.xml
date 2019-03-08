@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>稀磁半导体</title>
+  
+  <subtitle>钱塘江上潮信来，今日方知我是我。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-07T14:23:56.205Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Havoc</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次网上冲浪</title>
+    <link href="http://yoursite.com/2019/03/07/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BD%91%E4%B8%8A%E5%86%B2%E6%B5%AA/"/>
+    <id>http://yoursite.com/2019/03/07/第一次网上冲浪/</id>
+    <published>2019-03-07T14:23:56.000Z</published>
+    <updated>2019-03-07T14:23:56.205Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
